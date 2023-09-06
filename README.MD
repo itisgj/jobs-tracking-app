@@ -2,14 +2,6 @@
 
 #### Track Your Job Search
 
-Project in Action - [Jobify](https://www.jobify.live/)
-
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Run The App Locally
-
 ```sh
 npm run install-dependencies
 ```
@@ -77,8 +69,6 @@ npm install normalize.css
 - SET BEFORE 'index.css'
 - replace contents of index.css
 - if any questions about normalize or specific styles
-- Coding Addict - [Default Starter Video](https://youtu.be/UDdyGNlQK5w)
-- Repo - [Default Starter Repo](https://github.com/john-smilga/default-starter)
 
 #### Landing Page
 
@@ -675,12 +665,6 @@ app.listen(port, () => console.log(`Server is listening on port ${port}...`))
 
 #### Track Your Job Search
 
-Project in Action - [Jobify](https://www.jobify.live/)
-
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
 #### Run The App Locally
 
 ```sh
@@ -749,9 +733,6 @@ npm install normalize.css
 - import 'normalize.css' in index.js
 - SET BEFORE 'index.css'
 - replace contents of index.css
-- if any questions about normalize or specific styles
-- Coding Addict - [Default Starter Video](https://youtu.be/UDdyGNlQK5w)
-- Repo - [Default Starter Repo](https://github.com/john-smilga/default-starter)
 
 #### Landing Page
 
